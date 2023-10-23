@@ -1,6 +1,13 @@
 # Two Mass-Spring-Damper System Simulation
+## System overview
 
 ![image_0.png](project_media/image_0.png)
+
+## Simulink schematic
+
+![image_1.png](project_media/image_1.png)
+
+## Code
 
 ```matlab:Code
 % spring constants [N/m]

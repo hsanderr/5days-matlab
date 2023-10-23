@@ -39,7 +39,7 @@ plot(ans.F)
 ylim([0 1.5])
 legend('x1', 'x2', 'F')
 ylabel('Force [N]')
-xlabel('Time [sec]')
+xlabel('Time [s]')
 title('Two Mass-Spring-Damper System Response')
 ```
 
